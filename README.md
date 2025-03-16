@@ -1,4 +1,5 @@
 ĐỀ TÀI: XÂY DỰNG MÔ HÌNH DỰ ĐOÁN DOANH SỐ BÁN HÀNG ĐIỆN TỬ
+![image](https://github.com/user-attachments/assets/1a94592a-d9fc-4311-a8f6-a4048e8eee1e)
 
 Kết quả đạt được: Biểu đồ doanh số theo tháng
 
